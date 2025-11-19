@@ -24,7 +24,6 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AlexandrSokolov)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sokolov.alexander.1987@gmail.com)
-[![HeadHunter](https://img.shields.io/badge/HeadHunter-FF0000?style=for-the-badge&logo=hh.ru&logoColor=white)](https://hh.ru/resume/your_resume_id)
 
 ---
 
